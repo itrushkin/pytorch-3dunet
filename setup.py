@@ -7,6 +7,5 @@ setup(
     version=__version__,
     author="Adrian Wolny, Lorenzo Cerrone",
     url="https://github.com/wolny/pytorch-3dunet",
-    license="MIT",
-    python_requires='>=3.7'
+    license="MIT"
 )
